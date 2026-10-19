@@ -29,6 +29,23 @@ Host-only network configuration:
 <img width="1436" height="851" alt="image" src="https://github.com/user-attachments/assets/9ec38edd-d031-4cb0-807e-bfefca8f2955" />
 
 DC01 Adapter 1 configuration:
+
 <img width="749" height="472" alt="image" src="https://github.com/user-attachments/assets/72d8db94-e079-4318-bbe4-f887a42afed6" />
 
 DC01 Static IP configuration:
+
+<img width="763" height="561" alt="image" src="https://github.com/user-attachments/assets/08de875b-8678-46a6-b92c-02af8e4581fc" />
+
+Network connectivity:
+
+<img width="535" height="254" alt="image" src="https://github.com/user-attachments/assets/597dc538-4513-495b-92ce-11dc397fabe5" />
+
+AD configuration:
+
+<img width="1003" height="114" alt="image" src="https://github.com/user-attachments/assets/e0083155-4d39-4706-a3b8-613122576188" />
+
+Domain Controller verification:
+
+<img width="1024" height="194" alt="image" src="https://github.com/user-attachments/assets/2b2b9608-ad52-4470-804d-8e119ebeffd3" />
+
+
